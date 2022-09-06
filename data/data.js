@@ -1,0 +1,58 @@
+export const data = [
+  {
+    id: 0,
+    img: 'https://images.unsplash.com/photo-1655705247880-ede8a178ed77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60',
+    title: '[명품] 에르메스 지갑 2022 팝니다.',
+    time: '청라 2동 | 10분 전',
+    price: '220만원',
+  },
+  {
+    id: 1,
+    img: 'https://images.unsplash.com/photo-1655678204800-f72e0bc221be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60',
+    title: '삼성 LED TV 팝니다',
+    time: '논현동 | 30분 전',
+    price: '무료 나눔',
+  },
+  {
+    id: 2,
+    img: 'https://images.unsplash.com/photo-1655669357124-394d107b3aaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyN3x8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60',
+    title: '나이키 옷 판매요~',
+    time: '심곡동 | 2분 전',
+    price: '6,500원',
+  },
+  {
+    id: 3,
+    img: 'https://images.unsplash.com/photo-1655660438377-fbbcd488d8b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMTB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60',
+    title: '책상 판매 안내',
+    time: '역삼동 | 55분 전',
+    price: '10,000원',
+  },
+  {
+    id: 4,
+    img: 'https://images.unsplash.com/photo-1655699079493-8bf54ec239a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80',
+    title: '아이패드 프로 12.9인치 저렴하게 팝니다!',
+    time: '신도림동 | 10초 전',
+    price: '95,0000원',
+  },
+  {
+    id: 5,
+    img: 'https://cdn.pixabay.com/photo/2022/04/10/09/02/cats-7122943_1280.png',
+    title: '미개봉 갤럭시탭 팝니다',
+    time: '문래동 | 2초 전',
+    price: '44,0000원',
+  },
+  {
+    id: 6,
+    img: 'https://images.unsplash.com/photo-1655618569427-a8964283de4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NXx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60',
+    title: '휠체어 판매글',
+    time: '합정동 | 55초 전',
+    price: '30,0000원',
+  },
+  {
+    id: 7,
+    img: 'https://cdn.pixabay.com/photo/2022/04/24/08/08/park-7153125_1280.png',
+    title: '나이키 유니폼 ',
+    time: '효자동 | 1시간 전',
+    price: '10,000원',
+  },
+];
